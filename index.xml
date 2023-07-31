@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CIT club</title>
+    <link>https://MehdiLahlouMimi00.github.io/</link>
+    <description>Recent content on CIT club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://MehdiLahlouMimi00.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://MehdiLahlouMimi00.github.io/cells/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://MehdiLahlouMimi00.github.io/cells/</guid>
+      <description>Web Cell The Web Cell focuses on web development and related technologies. It deals with designing, building, and maintaining websites, web applications, and online services. This domain covers various aspects, including front-end development (user interface and user experience), back-end development (server-side logic and databases), web security, and web performance optimization.
+Data Cell The Data Cell is centered around data management and analysis. It involves collecting, storing, processing, and analyzing data to extract valuable insights and support decision-making processes.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://MehdiLahlouMimi00.github.io/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://MehdiLahlouMimi00.github.io/events/</guid>
+      <description>JNJD Journée Nationale du Jeune Développeur (National Day of the Young Developer) The National Day of Young Developers (JNJD) is an annual event that has been celebrated since 2005, dedicated to young individuals with a passion for programming and a knack for tackling complex algorithmic challenges. JNJD serves as a platform to inspire, engage, and recognize the talents of budding developers, fostering a thriving community in the field of information technology.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://MehdiLahlouMimi00.github.io/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://MehdiLahlouMimi00.github.io/team/</guid>
+      <description>Meet our team : Mehdi LAHLOU MIMIClub&#39;s ChairmanIdriss EL WAANABIVice ChairmanAmine LACHEGURTreasurerAbdelmajid HABOUCHGeneral SecretaryLamyae KEROUADEvents Cell ChiefAlabadila MALAINAINESponsorship Cell ChiefTaha SAFATechnical Cell ChiefZineb CHOUKRANIMedia Cell ChiefMouad TIGMOUTIDesign Cell ChiefZakaria HAMIDSecurity Cell ChiefIlyas EL MAZIDIWeb Cell ChiefHamza MOUSSAOUIData Cell ChiefYoucef BOUKHARIDevops Cell ChiefAbdelmajid NIDNASSERAlgorithmic Cell Chief</description>
+    </item>
+    
+  </channel>
+</rss>
